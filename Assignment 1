@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta name="description" content="Let's Travel."> 
+<title>Travel The World</title> 
+</head> 
+<body> 
+<header> 
+<h1>Ready to Travel The World?</h1> 
+<nav>
+<a href="#destinations">Destinations</a> 
+<a href="#accommodation">Accomdation/a> 
+</nav> 
+</header>
+<section id="destinations"> 
+<h2>Best Destinations For travel</h2> 
+<p>A great Travel experience starts with a good choice of destination .</p>
+<img src="nature.jpg" alt="Hot air Baloon in the maasai mara">
+<h3> Destinations to try out</h3>
+<ul>
+<li> Kenya </li>
+<li> Mauritius </li>
+<li> Seychelles</li>
+</ul>
+</section> 
+<section id="accommodation"> 
+<h2>Accomdation Options</h2>
+<p>Choice of accommodation plays a big role in your travel experience.</p> 
+<h3> Available Accomdation </h3>
+<ul>
+<li> Campsite </li>
+<li> Hotel Bookings </li>
+<li> Air BnBs</li>
+</ul>
+</section> 
+<footer> 
+<p> Your Travel Chaufer © 2024  </p> 
+</footer> 
+</body> 
+</html>
